@@ -1,0 +1,29 @@
+{
+    "skills": [
+        {
+            "name": "Flutter",
+            "description": "Mobile and Web development",
+            "techLogoPath": "assets/images/flutter_small.png"
+        },
+        {
+            "name": "Firebase",
+            "description": "Authentication, Firestore, Cloud Functions, etc ...",
+            "techLogoPath": "assets/images/firebase.png"
+        },
+        {
+            "name": "NodeJS",
+            "description": "NestJS Backend Framework.",
+            "techLogoPath": "assets/images/nodejs.png"
+        },
+        {
+            "name": "CI/CD",
+            "description": "Builds and Release automation",
+            "techLogoPath": "assets/images/github_actions.png"
+        },
+        {
+            "name": "Java",
+            "description": "Backend and DSA",
+            "techLogoPath": "assets/images/java.png"
+        }
+    ]
+}

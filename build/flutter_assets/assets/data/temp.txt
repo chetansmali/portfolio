@@ -1,0 +1,86 @@
+//        {
+//            "name": "PSPayment Wallet",
+//            "previewLink": "https://play.google.com/store/apps/details?id=kr.co.pspayment.app",
+//            "tags": [
+//                "Android",
+//                "Webview"
+//            ],
+//            "previewImage": "assets/images/portfolio/pspayment.png",
+//            "fullDescription": "This is a webview flutter app. I developed the flutter app that will render the web app made by another developer."
+//        },
+//        {
+//            "name": "OwensMX",
+//            "previewLink": "https://play.google.com/store/apps/details?id=com.owensgroup.owensmx",
+//            "tags": [
+//                "Android",
+//                "Webview"
+//            ],
+//            "previewImage": "assets/images/portfolio/owensmx.png",
+//            "fullDescription": "This is a webview flutter app. The client wants their responsive web app to be embedded in flutter to release in Google Play."
+//        },
+//        {
+//            "name": "Momentum",
+//            "previewLink": "https://pub.dev/packages/momentum",
+//            "tags": [
+//                "State Management",
+//                "Library"
+//            ],
+//            "previewImage": "assets/images/portfolio/momentum.png",
+//            "fullDescription": "A state management library I made inspired with MVC pattern. It currently has 75% popularity on pub.dev. In case you don't know what is a library, this is not a consumer app, this is for developers to be used in their flutter projects."
+//        },
+//        {
+//            "name": "RelativeScale",
+//            "previewLink": "https://pub.dev/packages/relative_scale",
+//            "tags": [
+//                "Widget Scaling",
+//                "Library"
+//            ],
+//            "previewImage": "assets/images/portfolio/relative_scale.png",
+//            "fullDescription": "A flutter library I made for scaling widgets in different screen size and density. It currently has 87% popularity on pub.dev. In case you don't know what is a library, this is not a consumer app, this is for developers to be used in their flutter projects."
+//        }
+//        {
+              "name": "Beaconforce",
+              "previewLink": "https://play.google.com/store/apps/details?id=com.crassusmh.beaconforce",
+              "tags": [
+                  "Employee Monitoring",
+                  "Statistics",
+                  "Android & iOS"
+              ],
+              "previewImage": "assets/images/portfolio/beaconforce.png",
+              "fullDescription": "Beaconforce helps values-driven organizations create environments that motivate people and improve their performance. I developed and maintained this with another developer. One of the BIG projects I worked on."
+          },
+          {
+              "name": "Beaconforce Orbit",
+              "previewLink": "",
+              "tags": [
+                  "Admin Dashboard",
+                  "Internal Tool",
+                  "NodeJS Backend",
+                  "Flutter Web"
+              ],
+              "previewImage": "assets/images/portfolio/orbit.png",
+              "fullDescription": "My first ever BIG flutter web project. This have so many integration ranging from Google Cloud, GitHub, AppCenter, Shortcut PMS and many more. This is still work in progress and many more features will be added soon. Unfortunately this is an internal tool for the client I work and I can't provide a preview link."
+          },
+          {
+              "name": "Quantz",
+              "previewLink": "https://play.google.com/store/apps/details?id=dev.xamantra.quantz",
+              "tags": [
+                  "Anime",
+                  "Android",
+                  "NodeJS Backend",
+                  "Ads + In-app purchase"
+              ],
+              "previewImage": "assets/images/portfolio/quantz.png",
+              "fullDescription": "A personal project I developed and proudly has 100+ download on Google Play. I'm an anime fan and made an app for myself to get updated with anime episodes and news. I decided to publish the app on Google Play as additional item on my portfolio. I implemented Ads and in-app purchase in this app."
+          },
+          {
+              "name": "Witty",
+              "previewLink": "https://play.google.com/store/apps/details?id=com.wittymanager.mobile_v2",
+              "tags": [
+                  "Time & Attendance",
+                  "PMS",
+                  "Android & iOS"
+              ],
+              "previewImage": "assets/images/portfolio/witty.png",
+              "fullDescription": "I developed and maintained this alone until I left the company. One of my BIG projects. This is more than time & attendance and has a bunch of features like filing leaves, payslip viewing, ticketing system (PMS), etc."
+          },

@@ -1,0 +1,47 @@
+{
+    "clients": [
+        {
+            "clientName": "TheLoosersCompany",
+            "date": "September 2021 - Present (1 years 11 months) Belgaum, Karnataka, India",
+            "summary": "Independent Contractor",
+            "logoUrl": "assets/images/theloosercompany.jpg",
+            "location": "Belgaum, Karnataka, India",
+            "notableTasks": [
+                {
+                    "name": "Mobile Application Development",
+                    "description": "Worked as an independent contractor for various mobile app projects."
+                },
+                {
+                    "name": "Flutter Development",
+                    "description": "Used Flutter to develop a mobile and web application."
+                },
+                {
+                    "name": "CI/CD",
+                    "description": "Automate builds and releases."
+                },
+                {
+                    "name": "Backend",
+                    "description": "Develop backend using NodeJS with Firebase Functions."
+                }
+            ]
+        },
+
+        {
+            "clientName": "Servicecart",
+            "date": "Jane 2020 - September 2021 (1 years 4 months) Belgaum, Karnataka, India",
+            "summary": "Mobile Application Engineer",
+            "logoUrl": "assets/images/servicecaart.jpg",
+            "location": "Belgaum, Karnataka, India",
+            "notableTasks": [
+                {
+                    "name": "Flutter Development",
+                    "description": "Used Flutter to develop a mobile app."
+                },
+                {
+                    "name" : "Backend API's integration",
+                    "description" : "php laravel is used for API's"
+                }
+            ]
+        }
+    ]
+}

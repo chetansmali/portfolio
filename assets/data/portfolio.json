@@ -1,0 +1,19 @@
+{
+    "projects": [
+
+        {
+            "name": "GSS - COLOSSUS App",
+            "previewLink": "https://play.google.com/store/apps/details?id=com.colossus.myapplication",
+            "tags": [
+                "Event Managment",
+                "Firebase",
+                "Android"
+            ],
+            "previewImage": "assets/images/appss.png",
+            "fullDescription": "Introducing our cutting-edge Event Management App – the ultimate solution for seamlessly organizing and executing events our app is designed to simplify the entire event planning process, from start to finish."
+        }
+
+
+    ]
+}
+
