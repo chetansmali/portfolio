@@ -96,7 +96,7 @@ class _ItemContent extends StatelessWidget {
               duration: Duration(milliseconds: 200),
               child: ClipRRect(
                 borderRadius: BorderRadius.circular(25),
-                child: Image.asset(
+                child: Image.network(
                   widget.projectData.previewImage,
                   fit: BoxFit.cover,
                 ),

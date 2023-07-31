@@ -83,7 +83,7 @@ class _PortfolioItemDialog extends StatelessWidget {
               ),
               child: ClipRRect(
                 borderRadius: BorderRadius.circular(25),
-                child: Image.asset(
+                child: Image.network(
                   projectData.previewImage,
                   fit: BoxFit.cover,
                 ),
