@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"index.html": "8041635d578e7a41130ba0bd16291405",
-"/": "8041635d578e7a41130ba0bd16291405",
+const RESOURCES = {"index.html": "99bd709747bbe6b1cb18f9024af4a156",
+"/": "99bd709747bbe6b1cb18f9024af4a156",
 "flutter.js": "6fef97aeca90b426343ba6c5c9dc5d4a",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "main.dart.js": "20a7729a283c8932b15113324b37e903",
@@ -24,7 +24,7 @@ const RESOURCES = {"index.html": "8041635d578e7a41130ba0bd16291405",
 "assets/NOTICES": "8a041c8bf3827b71137be8f693492bc5",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "57d849d738900cfd590e9adc7e208250",
-"assets/assets/data/portfolio.json": "b8c86fd31d7f4625897edb0869abe0ba",
+"assets/assets/data/portfolio.json": "487ead9229888f417420bf892c3f3473",
 "assets/assets/data/experience.json": "9edcd24f722b5d6441a61938a497463a",
 "assets/assets/data/profile.json": "0a1d3a3c34304dc8eed7e7e8c9125a6b",
 "assets/assets/data/skills.json": "d92ebe5af9acc9341b02a7724709ea5a",
