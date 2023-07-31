@@ -9,22 +9,23 @@
                 "Firebase",
                 "Android"
             ],
-            "previewImage": "assets/images/appss.png",
+            "previewImage": "https://drive.google.com/file/d/1arPxguihP9velFOICy7oZZasB6cnl4BI/view?usp=drive_link",
             "fullDescription": "Introducing our cutting-edge Event Management App – the ultimate solution for seamlessly organizing and executing events our app is designed to simplify the entire event planning process, from start to finish."
         },
+
         {
-            "name": "AR-Based Virtual Shopping App (Personal Project) | Flutter",
+            "name": "AI Chatbot using GPT-4 (Personal Project) | Flutter",
             "previewLink": "",
             "tags": [
-                "Augmented Reality",
                 "Flutter",
-                "ARCore",
-                "ARKit",
-                "Firebase"
+                "AI Chatbot",
+                "Natural Language Processing",
+                "GPT-4"
             ],
-            "previewImage": "https://ik.imagekit.io/altajfood/ar_asset/ar_shopping",
-            "fullDescription": "Created an augmented reality (AR) shopping app that allowed users to virtually try on products before purchasing. Integrated ARCore (Android) and ARKit (iOS) to render 3D models of products in real-world environments. Implemented object detection and recognition algorithms to ensure accurate and realistic product placement. Utilized Firebase for user authentication, analytics, and backend functionalities."
+            "previewImage": "https://ik.imagekit.io/altajfood/ar_asset/Screenshot%202023-07-31%20at%206.57.04%20AM.png",
+            "fullDescription": "Developed an AI-powered chatbot using GPT-4, a state-of-the-art natural language processing model. The chatbot can engage in conversations with users, answer questions, and provide helpful information on various topics."
         },
+
         {
             "name": "Smart Home Automation App (Personal Project) | Flutter",
             "previewLink": "",
@@ -38,20 +39,19 @@
             "previewImage": "https://ik.imagekit.io/altajfood/ar_asset/smart%20home%20app.png",
             "fullDescription": "Developed a smart home automation app that allowed users to control various IoT devices and appliances remotely. Utilized MQTT protocol for real-time communication between the app and IoT devices. Integrated voice recognition using Flutter’s voice processing plugins for hands-free device control."
         },
+
         {
-            "name": "Plant Disease Detection App with Machine Learning (Personal Project) | Flutter",
+            "name": "Using TensorFlow Lite in Flutter (Personal Project) | Flutter",
             "previewLink": "",
             "tags": [
                 "Flutter",
                 "Machine Learning",
-                "TensorFlow Lite",
-                "Cloud Storage",
-                "Plant Diseases",
-                "Kaggle"
+                "TensorFlow Lite"
             ],
-            "previewImage": "https://ik.imagekit.io/altajfood/ar_asset/plant%20app%20.png",
-            "fullDescription": "Utilized a pre-trained deep learning model of TensorFlow Lite to identify common plant diseases from the images. Utilized cloud storage for synchronization of plant images and disease data across multiple devices. Incorporated a comprehensive database of plant diseases from Kaggle and their corresponding treatments and prevention methods."
+            "previewImage": "https://ik.imagekit.io/altajfood/ar_asset/tersorflowlite.png",
+            "fullDescription": "Developed a Flutter app that utilizes TensorFlow Lite to perform machine learning tasks on-device. TensorFlow Lite enables running lightweight machine learning models efficiently on mobile and embedded devices."
         },
+
         {
             "name": "Urban Company Clone (Personal Project) | Flutter",
             "previewLink": "",
@@ -64,41 +64,22 @@
             "previewImage": "https://ik.imagekit.io/altajfood/ar_asset/urban%20company%20clone.png",
             "fullDescription": "Developed a mobile app clone of Urban Company, a service marketplace platform. Implemented various UI components and features to resemble the original app's design and functionality. Users can browse and book services from service providers in different categories."
         },
+
         {
-            "name": "AI Chatbot using GPT-4 (Personal Project) | Flutter",
+            "name": "AR-Based Virtual Shopping App (Personal Project) | Flutter",
             "previewLink": "",
             "tags": [
+                "Augmented Reality",
                 "Flutter",
-                "AI Chatbot",
-                "Natural Language Processing",
-                "GPT-4"
+                "ARCore",
+                "ARKit",
+                "Firebase"
             ],
-            "previewImage": "https://ik.imagekit.io/altajfood/ar_asset/Screenshot%202023-07-31%20at%206.57.04%20AM.png",
-            "fullDescription": "Developed an AI-powered chatbot using GPT-4, a state-of-the-art natural language processing model. The chatbot can engage in conversations with users, answer questions, and provide helpful information on various topics."
+            "previewImage": "https://ik.imagekit.io/altajfood/ar_asset/ar_shopping",
+            "fullDescription": "Created an augmented reality (AR) shopping app that allowed users to virtually try on products before purchasing. Integrated ARCore (Android) and ARKit (iOS) to render 3D models of products in real-world environments. Implemented object detection and recognition algorithms to ensure accurate and realistic product placement. Utilized Firebase for user authentication, analytics, and backend functionalities."
         },
-        {
-            "name": "PaLM AI in Flutter (Personal Project) | Flutter",
-            "previewLink": "",
-            "tags": [
-                "Flutter",
-                "AI",
-                "Language Model",
-                "PaLM"
-            ],
-            "previewImage": "https://ik.imagekit.io/altajfood/ar_asset/palm.webp",
-            "fullDescription": "Implemented PaLM (Parameterized Language Model), an AI language model, in Flutter. The PaLM AI is capable of generating human-like text and can be used for applications such as chatbots, text completion, and creative writing assistance."
-        },
-        {
-            "name": "Using TensorFlow Lite in Flutter (Personal Project) | Flutter",
-            "previewLink": "",
-            "tags": [
-                "Flutter",
-                "Machine Learning",
-                "TensorFlow Lite"
-            ],
-            "previewImage": "https://ik.imagekit.io/altajfood/ar_asset/tersorflowlite.png",
-            "fullDescription": "Developed a Flutter app that utilizes TensorFlow Lite to perform machine learning tasks on-device. TensorFlow Lite enables running lightweight machine learning models efficiently on mobile and embedded devices."
-        }
+
+
 
 
     ]
