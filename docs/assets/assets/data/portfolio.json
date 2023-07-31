@@ -77,7 +77,7 @@
             ],
             "previewImage": "https://ik.imagekit.io/altajfood/ar_asset/ar_shopping",
             "fullDescription": "Created an augmented reality (AR) shopping app that allowed users to virtually try on products before purchasing. Integrated ARCore (Android) and ARKit (iOS) to render 3D models of products in real-world environments. Implemented object detection and recognition algorithms to ensure accurate and realistic product placement. Utilized Firebase for user authentication, analytics, and backend functionalities."
-        },
+        }
 
 
 
